@@ -1,0 +1,14 @@
+C:\Users\yaroslav.bohak\source\repos\ComputerScience\ComputerScience\bin\Debug\ComputerScience.exe.config
+C:\Users\yaroslav.bohak\source\repos\ComputerScience\ComputerScience\bin\Debug\ComputerScience.exe
+C:\Users\yaroslav.bohak\source\repos\ComputerScience\ComputerScience\bin\Debug\ComputerScience.pdb
+C:\Users\yaroslav.bohak\source\repos\ComputerScience\ComputerScience\obj\Debug\ComputerScience.csprojAssemblyReference.cache
+C:\Users\yaroslav.bohak\source\repos\ComputerScience\ComputerScience\obj\Debug\ComputerScience.csproj.CoreCompileInputs.cache
+C:\Users\yaroslav.bohak\source\repos\ComputerScience\ComputerScience\obj\Debug\ComputerScience.exe
+C:\Users\yaroslav.bohak\source\repos\ComputerScience\ComputerScience\obj\Debug\ComputerScience.pdb
+D:\.NET Projects\Matrix\ComputerScience\ComputerScience\ComputerScience\bin\Debug\ComputerScience.exe.config
+D:\.NET Projects\Matrix\ComputerScience\ComputerScience\ComputerScience\bin\Debug\ComputerScience.exe
+D:\.NET Projects\Matrix\ComputerScience\ComputerScience\ComputerScience\bin\Debug\ComputerScience.pdb
+D:\.NET Projects\Matrix\ComputerScience\ComputerScience\ComputerScience\obj\Debug\ComputerScience.csprojAssemblyReference.cache
+D:\.NET Projects\Matrix\ComputerScience\ComputerScience\ComputerScience\obj\Debug\ComputerScience.csproj.CoreCompileInputs.cache
+D:\.NET Projects\Matrix\ComputerScience\ComputerScience\ComputerScience\obj\Debug\ComputerScience.exe
+D:\.NET Projects\Matrix\ComputerScience\ComputerScience\ComputerScience\obj\Debug\ComputerScience.pdb
