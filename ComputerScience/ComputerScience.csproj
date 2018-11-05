@@ -45,6 +45,8 @@
   <ItemGroup>
     <Compile Include="DataStructures\Array.cs" />
     <Compile Include="DataStructures\LinkedList.cs" />
+    <Compile Include="DataStructures\List.cs" />
+    <Compile Include="DataStructures\Queue.cs" />
     <Compile Include="Sorting\BubleSort.cs" />
     <Compile Include="Sorting\HeapSort.cs" />
     <Compile Include="Sorting\InsertionSort.cs" />
